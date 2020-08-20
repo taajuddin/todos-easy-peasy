@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-easy-peasy/static/css/main.98f3006d.chunk.css",
+    "main.js": "/todo-easy-peasy/static/js/main.dbece28a.chunk.js",
+    "main.js.map": "/todo-easy-peasy/static/js/main.dbece28a.chunk.js.map",
+    "runtime~main.js": "/todo-easy-peasy/static/js/runtime~main.6368447d.js",
+    "runtime~main.js.map": "/todo-easy-peasy/static/js/runtime~main.6368447d.js.map",
+    "static/js/2.77b6379f.chunk.js": "/todo-easy-peasy/static/js/2.77b6379f.chunk.js",
+    "static/js/2.77b6379f.chunk.js.map": "/todo-easy-peasy/static/js/2.77b6379f.chunk.js.map",
+    "index.html": "/todo-easy-peasy/index.html",
+    "precache-manifest.b1c8ff88774a068007eea15aa168a349.js": "/todo-easy-peasy/precache-manifest.b1c8ff88774a068007eea15aa168a349.js",
+    "service-worker.js": "/todo-easy-peasy/service-worker.js",
+    "static/css/main.98f3006d.chunk.css.map": "/todo-easy-peasy/static/css/main.98f3006d.chunk.css.map"
+  }
+}
